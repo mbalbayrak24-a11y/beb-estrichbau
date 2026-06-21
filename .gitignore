@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Interne Projektnotizen (nicht veröffentlichen)
+PROJEKT-STATUS.md
+
+# Ungenutzte Original-Quellfotos im Projekt-Root (nur die optimierten in assets/ werden genutzt)
+/1676D54B-9DEA-4671-BA8B-CCE1A0C0390E.PNG
+/175580D6-A82F-4844-B43B-7D92449F875D.PNG
+/638A5B93-C4E4-45EB-A47F-133BC6ABC573.PNG
