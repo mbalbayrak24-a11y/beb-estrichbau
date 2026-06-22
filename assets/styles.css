@@ -60,6 +60,7 @@ p{margin:0;} a{color:inherit;text-decoration:none;} ul,ol{margin:0;padding:0;lis
 .nav.is-open .nav__mobile{display:flex;}
 .nav__mobile a{padding:.85rem 0;font-size:1.1rem;color:var(--text-soft);border-bottom:1px solid var(--line);}
 .nav__mobile .btn{margin-top:1rem;}
+.nav__mobile .btn--solid{color:var(--ink);border-bottom:none;}
 
 /* ===== Cinematic intro (Startseite) ===== */
 .intro{position:relative;}
